@@ -1,0 +1,18 @@
+github-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.github-link:hover {
+    background-color: #555;
+}
+
+/* Estilos para o ícone */
+.fab.fa-github {
+    margin-right: 5px;
